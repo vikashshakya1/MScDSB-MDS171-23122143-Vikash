@@ -1,3 +1,0 @@
-name:vikash
-age:MSDS
-class:22
