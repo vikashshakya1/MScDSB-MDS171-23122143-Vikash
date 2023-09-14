@@ -9,9 +9,9 @@ EMAIL - vikash.shakya@msds.christuniversity.in
 
 |CLASS|DATE|QUESTION|LINK|
 |-----|----------|----------------------------------------|-------------------------------|
-|Lab01|23-08-23|Program to print your name|[Lab01]()|
-|Lab02|29-08-23|The Name Collector's Quest|[Lab02]()|
-|Lab03|31-08-23|The Tale of Numbers' Harmony|[Lab03]() |
-|Lab04|05-09-23|A Taste of Success: The Restaurant Management System| [Lab04]() |
-|Lab05|12-09-23|Vowel Counter|[Lab05]() |
-|Lab06|14-09-23|Mix & Match Calculator|[Lab06]() |
+|Lab01|23-08-23|Program to print your name|[Lab01](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/lab01.ipynb)|
+|Lab02|29-08-23|The Name Collector's Quest|[Lab02](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab02.ipynb)|
+|Lab03|31-08-23|The Tale of Numbers' Harmony|[Lab03](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab03.ipynb) |
+|Lab04|05-09-23|A Taste of Success: The Restaurant Management System| [Lab04](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab04.ipynb) |
+|Lab05|12-09-23|Vowel Counter|[Lab05](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab05.ipynb) |
+|Lab06|14-09-23|Mix & Match Calculator|[Lab06](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab06.ipynb) |
