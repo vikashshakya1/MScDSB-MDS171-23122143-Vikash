@@ -1,14 +1,17 @@
 
+# PERSONAL DETAILS
+NAME- Vikash Shakya  
+REG NO. - 23122143  
+CLASS- 1MScDS B  
+EMAIL - vikash.shakya@msds.christuniversity.in
 
-Vikash Shakya   
-23122143   
-MScDS B  
-vikash.shakya@msds.christuniversity.in
-## index
-|sl.no|date|file name|topic||Link|
-|:---:|:---:|:----:|:---:|
-|1.|23-08-23|lab01|write a program to enter name and push it to github|
-|2.|29-08-23|lab02|write a program to print number in words|
-|3.|31-08-23|lab03|write a program to find mean, max, min, range|
-|4.|05-09-23|lab04|write a programme to create an advanced GSMS to revolutionise Farmers' Harvest|
-|5.|12-09-23|lab05|Write a program for collecting a string from the user and counting the number of vowels.|
+# CONTENT
+
+|CLASS|DATE|QUESTION|LINK|
+|-----|----------|----------------------------------------|-------------------------------|
+|Lab01|23-08-23|Program to print your name|[Lab01](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/lab01.ipynb)|
+|Lab02|29-08-23|The Name Collector's Quest|[Lab02](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab02.ipynb)|
+|Lab03|31-08-23|The Tale of Numbers' Harmony|[Lab03](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab03.ipynb) |
+|Lab04|05-09-23|A Taste of Success: The Restaurant Management System| [Lab04](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab04.ipynb) |
+|Lab05|12-09-23|Vowel Counter|[Lab05](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab05.ipynb) |
+|Lab06|14-09-23|Mix & Match Calculator|[Lab06](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab06.ipynb) |
