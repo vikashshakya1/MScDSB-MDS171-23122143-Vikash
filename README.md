@@ -15,3 +15,5 @@ EMAIL - vikash.shakya@msds.christuniversity.in
 |Lab04|05-09-23|A Taste of Success: The Restaurant Management System| [Lab04](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab04.ipynb) |
 |Lab05|12-09-23|Vowel Counter|[Lab05](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab05.ipynb) |
 |Lab06|14-09-23|Mix & Match Calculator|[Lab06](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab06.ipynb) |
+|Lab07|21-09-23|Expense Trackera class expense tracker that stores the expenses and income in a dictionary implement the method to store the transaction view transactions and calculate the total expense/income.|[Lab07](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash.git)|
+|Lab08|03-10-23|Python program to implement a Stack class.|[Lab08](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash.git)|
