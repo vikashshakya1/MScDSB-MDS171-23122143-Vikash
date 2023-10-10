@@ -17,3 +17,4 @@ EMAIL - vikash.shakya@msds.christuniversity.in
 |Lab06|14-09-23|Mix & Match Calculator|[Lab06](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash/blob/main/Lab06.ipynb) |
 |Lab07|21-09-23|Expense Trackera class expense tracker that stores the expenses and income in a dictionary implement the method to store the transaction view transactions and calculate the total expense/income.|[Lab07](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash.git)|
 |Lab08|03-10-23|Python program to implement a Stack class.|[Lab08](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash.git)|
+|Lab09|10-10-23|a petstore class where you have the details of pets available and their details.|[Lab09](https://github.com/vikashshakya1/MScDSB-MDS171-23122143-Vikash.git)|
