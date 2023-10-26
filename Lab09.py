@@ -1,3 +1,9 @@
+# create a petstore class where you have the details of pets available and their details.
+# The class will have methods
+# Store a new pet details
+# Search for a pet
+# Sell a pet
+# List all pets
 class PetStore:
     def __init__(self):
         self.pet_list = []
